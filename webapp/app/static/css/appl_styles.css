@@ -1,0 +1,123 @@
+
+.ques {
+	/*width: 70%;
+	text-align: center;
+	padding: 50px 0 0 0;*/
+	/*background-color: gray;*/
+	font-weight: bold;
+}
+
+.topbar {
+	margin-top: 30px;
+}
+
+.appnav{
+	margin-bottom: 20px;
+}
+
+.currentapptab{
+	font-weight: bold;
+}
+
+hr{
+	width: 95%;
+    font-size: 1px;
+	color: rgba(0, 0, 0, 0);
+    line-height: 1px;
+}
+
+.splashtext{
+	font-size: 28pt;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: rgb(215,215,215);
+
+}
+
+.features{
+	font-size: 14pt;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: rgb(215,215,215);
+}
+
+.featureimg{
+	border-radius: 50px;
+	height: 100px;
+	width: 100px;
+	margin-left: 20%;
+	margin-right: 5%;
+	border: 1px solid rgb(170,170,170);
+}
+
+
+.clip-circle{
+	border-radius: 50px;
+}
+
+
+.splashtext2{
+	font-size: 32pt;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.programbutton, a.programbutton:visited, a.programbutton:hover{
+	height:200px;
+	position: relative;
+	display: block;
+	padding: 50px 0 0 0;
+	text-align: center;
+	color: rgb(255,255,255);
+	font-size: 18pt;
+	text-decoration: none;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+
+.dsbutton{
+	background-color: rgb(36,48,138);
+}
+
+a.dsbutton:hover, a.dsbutton:active{
+	background-color: rgb(46,58,148);
+}
+
+.debutton{
+	background-color: rgb(138,36,99);
+}
+
+a.debutton:hover, a.debutton:active{
+	background-color: rgb(148,46,109);
+}
+
+.hdbutton{
+	background-color: rgb(36,138,75);
+}
+
+a.hdbutton:hover, a.hdbutton:active{
+	background-color: rgb(46,148,85);
+}
+
+div#content {
+    margin: auto;
+}
+ 
+div#load {
+    top: 200 px;
+    margin: auto;
+    position: absolute;
+    z-index: 1000;
+    width: 150px;
+    height: 200px;
+    cursor: wait;
+    show: false;
+}
+
+.progress-label {
+    float: left;
+    margin-right: 1em;
+}
+
